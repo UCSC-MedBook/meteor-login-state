@@ -3,14 +3,15 @@
 Share Login State between the Sub Domains for Meteor Apps (Support for static apps too)
 
 ## Getting Started
+This is based on meteorhacks:login-state! Thank you, Thank you!
 
-Using `kadira:login-state` you can share the login information between apps hosted in different sub-domains. All apps are not necessory to be meteor apps. One app must be a meteor app and its login state can be share easialy across multiple sub-domains using this package.
+Using `medbook:login-state` you can share the login information between apps hosted in different sub-domains. All apps are not necessarily  meteor apps. One app must be a meteor app and its login state can be share easialy across multiple sub-domains using this package.
 
 ### On Meteor App
 
-#### Inatall
+#### Install
 
-`meteor add kadira:login-state`
+`meteor add ucsc-medbook:login-state`
 
 #### Configuration
 
